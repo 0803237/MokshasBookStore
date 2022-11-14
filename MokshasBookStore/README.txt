@@ -36,4 +36,62 @@ Then I changed the content of site.css file as given
 
 0440: Created dropdown menu in _Layout.cshtml file and checked by running the program. Also changed name from dropdown to Content Management
 
+================== Part-1 (1.4) Add Projects and Modify =====================
+
+0449: Added 3 projects in Solution MokshasBookStore Named:
+MokshasBooks.DataAccess
+MokshasBooks.Models
+MokshasBooks.Utility
+ and then copied data folded and pasted it in MokshasBooks.DataAccess project
+
+0454: Deleted migrations folder
+
+0457: Installed Microsoft EntityFramework Relational, SqlServer and Identity in .DataAccess project. 
+
+0459: Modified namespace to .DataAccess.Data in ApplicationDbContext.cs file.
+
+0502: Deleted class1.cs file from all projects.
+
+0506: Moved models folder to MokshasBooks.Models
+In MokshasBookStore, Added project reference to .DataAccess and .Models projects.
+Rename Models folder to ViewModels
+
+0509: Rename namespace in ErrorViewModel.cs file
+
+0510: Found error in ApplicationDbContext inside startup.cs file
+Solved it by adding "using MokshasBookStore.DataAccess.Data" class library;
+
+0513: Again error in Error.cshtml file which I solved by referencing to ErrorViewModel
+
+0514: Error in Homecontroller.cs file
+solved by adding using directive for models.
+
+0516: Successfully run the program.
+
+0519: Added SD.cs class in MokshasBookStore.Utility project and modified the property to public static and then added .utility as a 
+project reference in MokshasBookStore project and MokshasBookStore.DataAccess project.
+
+0525: Added customers areas in the area folder.
+Edited endpoints in ScaffoldingReadMe.txt file and changed pattern in startup.cs file
+
+0534: Moved HomeController.cs to the Area -> Customer -> Controller folder and deleted models and data from it.
+
+0537: Moved home folder from main views to Area -> Customer -> Views folder and at last changed namespace in HomeController.cs file.
+
+0538: Now its time to run the application
+0539: Found error in running the program which was about routing of customers
+
+0545: solved by changing area=customers in startup.cs file.
+
+0546: Successfully run the  application
+
+0549: Copied _ViewImports.cshtml and _ViewStart.cshtml file to Areas -> Customer -> Views folder and changed path in _ViewStart.cshtml file.
+
+0552: Added adim in Area folder and them copied both _ViewImports.cshtml and _ViewStart.cshtml files in it and deleted
+data and models folder from it.
+Then deleted controller folder.
+
+0553: Successfully run my application and part-1 is complete :)
+
+
 
