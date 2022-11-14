@@ -22,3 +22,18 @@ Reviewed files inside Controllers, Models and Views
 ================== Part-1 (1.2) Debugging =====================
 
 0488: Added breakpoints in HomeController.cs file on IAction Index and Privacy and run the program
+
+================== Part-1 (1.3) Bootstrap =====================
+
+0416: Selected theme from Bootswatch.com and downloaded bootstrap.css file which I kept inside wwwroot/lib/bootstrap/dist/css.
+Then I changed the content of site.css file as given
+
+0421: Changed some classes in _Layout.cshtml file to give color layout for my web applications
+
+0426: Run the program and saw changes in the layout and text color of my application.
+
+0434: Added extra stylesheets and scripts in _Layout.cshtml file.
+
+0440: Created dropdown menu in _Layout.cshtml file and checked by running the program. Also changed name from dropdown to Content Management
+
+
