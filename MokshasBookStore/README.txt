@@ -110,7 +110,26 @@ Then deleted controller folder.
 
 0918: updated database and saw MokshasBookStore in SqlServer
 
+0922: Reviewed AddDefaultIdentityMigration file and added types in it.
 
+0924: Reviewed updated database on SqlServer.
+
+0931: Added new class in models project named category.cs and edited its content
+
+0933: Added migration named AddCategoryToDb in .DataAccess project
+
+0936: Error: was not able to add using MokshasBook.Models in ApplicationDbContext and error in category
+0940: solved: created public class in Category.cs file
+
+0941: Added migration again and updated datase
+
+0942: No content is added automatically in AddCategoryToDb file :(
+
+0945: Got the solution
+deleted existing AddCategoryToDb and Added again
+yeeeeehhhhhhhhh.... Got those content
+
+0947: Updated database and saw dbo.category on Sql Server.
 
 
 
