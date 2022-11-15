@@ -94,4 +94,23 @@ Then deleted controller folder.
 0553: Successfully run my application and part-1 is complete :)
 
 
+******************************************************* PART - 2 ************************************************************
+
+================== Part-2 (2.1) Create the DB =====================
+
+0859: Starting with part 2
+
+0900: Build the solution and checked by running the program.
+
+0906: Added migration but got error
+
+0910: found solution, I need to install microsoft entityframework for sqlserver
+
+0914: Added migration
+
+0918: updated database and saw MokshasBookStore in SqlServer
+
+
+
+
 
