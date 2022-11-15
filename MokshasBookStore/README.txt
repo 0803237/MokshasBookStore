@@ -155,7 +155,27 @@ solved by implementing interface.
 
 1056: Again modified content of CategoryRepository.cs file.
 
+Taking a break
 
+1205: Created ISP_Call.cs interface in IRepository folder
+1207: installed dapper
+
+1212: Modified content inside ISP_Call.cs file
+
+1214: Created SP_Call.cs class file in Repository folder and implemented ISP_Call in it
+Added content but caught with error
+solved by implementing interface
+
+1230: Modified content inside SP_Call.cs file
+
+1236: Created IUnitOfWork.cs file in IRepository folder and edited its content
+then added UnitOfWork in Repository folder.
+
+1239: added content inside UnitOfWork.cs class file
+
+1242: Edited ConfigureService in Startup.cs file.
+
+1243: Successfully builded the application with no failure
 
 
 
