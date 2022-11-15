@@ -1,6 +1,6 @@
 ﻿using MokshasBooks.DataAccess.Repository.IRepository;
 using MokshasBookStore.DataAccess.Data;
-using RudrasBooks.DataAccess.Repository;
+using MokshasBooks.DataAccess.Repository;
 using System;
 using System.Collections.Generic;
 using System.Text;

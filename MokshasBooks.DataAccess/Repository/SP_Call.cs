@@ -7,7 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RudrasBooks.DataAccess.Repository
+namespace MokshasBooks.DataAccess.Repository
 {
     class SP_Call : ISP_Call
     {

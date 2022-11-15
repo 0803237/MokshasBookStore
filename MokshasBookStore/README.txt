@@ -177,5 +177,17 @@ then added UnitOfWork in Repository folder.
 
 1243: Successfully builded the application with no failure
 
+================== Part-2 (2.3) Category CRUD =====================
 
+1246: Created categorycontroller.cs file in Areas-> Admin -> Controllers folder
 
+1257: Edited CategoryController.cs file.
+
+0104: Created new folder in Areas -> Admin -> Views -> Category
+In category, created index.cshtml view and added content inside it.
+
+0106: Successfully run my web application :)
+
+0109: Added category in _Layout.cshtml file in dropdown
+
+0110: Run the program and checked by clicking on content management whether category is added or not.... successfully it is added
