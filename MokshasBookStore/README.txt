@@ -191,3 +191,34 @@ In category, created index.cshtml view and added content inside it.
 0109: Added category in _Layout.cshtml file in dropdown
 
 0110: Run the program and checked by clicking on content management whether category is added or not.... successfully it is added
+
+0117: In Index.cshtml file added edit and trash button from fontAwesome.
+
+0126: Created category.js in wwwroot/js folder and edited its content
+added category.js file script in Index.cshtml file
+
+0130: Updated CategoryController.cs file
+0132: Created Upsert.cshtml file in  Admin/Views/Category folder and modified its content
+
+0140: In general Views/Shared folder I made partial view for _CreateAndBackToListButton and _EditAndBackToListButton and write some content
+inside it
+
+0151: Updated Upsert.cshtml file as per instruction and then added asp-action for upsert in Index.cshtml file
+
+0153: Successfully run the program and created new category
+
+0157: Modified Upsert.cshtml file and added @script call tp validate input
+
+0158: Run the program again successfully :)
+
+0202: Created Upsert POST action in CategoryController.cs
+Removed _db.SaveChanges from categoryRepositoy.cs file
+
+0207: run the application successfully and tried to update my changes in it :) :)
+
+0211: Added HTTPDelete in CategoryController.cs file
+and implemented it is category.js file
+
+0216: Updated categpry.js file
+
+0217: YEEEEEAAAAHHHHHHHH.... successfully run my program and I am able to add, edit and delete category
