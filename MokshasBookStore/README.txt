@@ -102,9 +102,11 @@ Then deleted controller folder.
 
 0900: Build the solution and checked by running the program.
 
-0906: Added migration but got error
+0903: Edited appsetting.json file
 
-0910: found solution, I need to install microsoft entityframework for sqlserver
+0906: Added 20221115020959_AddDefaultIdentityMigration.cs migration but got error
+
+0910: found solution, I need to install microsoft entityframework for sqlserver 
 
 0914: Added migration
 
@@ -222,3 +224,19 @@ and implemented it is category.js file
 0216: Updated categpry.js file
 
 0217: YEEEEEAAAAHHHHHHHH.... successfully run my program and I am able to add, edit and delete category
+
+15 November 2022
+
+1017: Build the project again in college dektop 
+installed microsoft entityframefork SqlServer 
+Updated database
+
+1019: Now its time to run the application to confirm
+
+1020: Ohh, I am not able to open it in browser
+
+1021: I remember, professor told us to comment out sslPort in launchSetting.json file
+
+1022: Running application again
+
+1023: Successfully am able to run my application :)
