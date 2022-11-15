@@ -129,7 +129,33 @@ Then deleted controller folder.
 deleted existing AddCategoryToDb and Added again
 yeeeeehhhhhhhhh.... Got those content
 
-0947: Updated database and saw dbo.category on Sql Server.
+0947: Updated database and saw dbo.categories on Sql Server.
+
+================== Part-2 (2.2) Repository =====================
+
+0953: Created new folder named repository and then IRepository folder inside it.
+
+1018: created IRepository.cs file inside IRepository folder
+
+1024: Modified its content
+
+1026: Made Respository.cs file in Repository folder.
+
+1033: Modified Repository.cs file but there was an error
+solved error by implementing interface
+and other errors by adding using directives.
+
+1040: Created CategoryRepository.cs and ICategoryRepository.cs file in Repository folder.
+
+1049: Modified content of CategoryRepository.cs file 
+
+1051: Modified ICategoryRepository.cs file 
+Error in CategoryRepository.cs file 
+solved by implementing interface.
+
+1056: Again modified content of CategoryRepository.cs file.
+
+
 
 
 
