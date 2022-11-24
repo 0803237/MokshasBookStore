@@ -346,3 +346,7 @@ and then implemented it in CoverType.js file
 0403: Edited Update method in ProductRepository.cs file
 
 0405: Build Successfull
+
+0410: Added Product in IUnitOfWork.cs and IUnitOfWork.cs file
+
+0411: Build Successfull
