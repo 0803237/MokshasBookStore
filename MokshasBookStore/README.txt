@@ -258,6 +258,8 @@ Updated database
 
 1150: Updated database
 
+11/24/2022
+
 1205: created CoverType.cs file in Models project
 Added ID and Name fields in it
 
@@ -286,6 +288,24 @@ and ICoverTypeRepository.cs interface in IRepository folder
 0105: Updated UnitOfWork.cs and IUnitOfWork.cs file
 
 0107: Build successfull
+
+0112: Updated database
+
+0125: Created CoverTypeController.cs file and added content inside it ..... error in unitofwork word solved it by
+using unitOfWork instead of unitofWork
+
+0132: In Areas/Admin/Views folder I created CoverType folder and created Index view innside it and then added 
+some content
+
+0134: Run the application but not able to open coverType
+
+0140: Solved it - Forgot to write "[Area("Admin")]" in CoverTypeController.cs file
+
+0143: Added covertype in navigation bar by making changes in _Layout.cshtml file.
+
+
+
+
 
 
 
