@@ -268,7 +268,8 @@ I need to change default project to build it successfully
 
 1210: Created CoverType DbSet in ApplicationDbContext.cs file
 
-1216: Deleted migration and then re run
+1216: Deleted migration and then re run 
+my 20221124051602_AddCoverTypeToDb migration is created
 
 1217: updated database
 
@@ -323,3 +324,25 @@ Added API to call HTTPDelete
 and then implemented it in CoverType.js file
 
 0247: Run the application and I am successfully able to create, edit and delete cover Types in my web application :)
+
+0248: Break time...
+
+================== Part-3 (3.2) Product CRUD =====================
+
+0328: Created Product.cs file in Models project and write content as adviced
+
+0337: Added migration 20221124083917_addProductToDb in console successfully
+
+0340: Updated database
+
+0342: Updated product class to make some field required
+
+0345: added migration for validation 20221124084402_addValidationToProduct
+
+0346: Updated database
+
+0400: Made new files ProductRepository.cs and IProductRepository.cs file in Repository and IRepository folder respectively
+
+0403: Edited Update method in ProductRepository.cs file
+
+0405: Build Successfull
