@@ -274,6 +274,14 @@ I need to change default project to build it successfully
 
 1229:  My Visual studio was crashed.
 
+1240: Made CoverTypeRepository.cs file in Repository folder
+and ICoverTypeRepository.cs interface in IRepository folder
+
+1244: Modified CoverTypeRepository.cs file
+
+1251: Updated both CoverType Repository files
+
+1252: Build successfull
 
 
 
