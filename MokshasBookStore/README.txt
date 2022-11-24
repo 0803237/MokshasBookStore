@@ -303,14 +303,23 @@ some content
 
 0143: Added covertype in navigation bar by making changes in _Layout.cshtml file.
 
+0149: In Index.cshtml file, I added content to add two icons
+run the application and I successfully added both of those icons
 
+0155: Created coverType.js file in wwwroot/js folder and added some content inside it.
 
+0157: Added section call in Index.cshtml file.
 
+0206: Created public upsert in CoverTypeController.cs file
 
+0217: Made Upsert.cshtml file in CoverType inside Views
 
+0223: Modified Upsert.cshtml and index.cshtml file
 
+0232: Run the application and validate by clicking create button without inputing anything
 
+0241: Updated CoverTypeController.cs file to create POST method in it
+Added API to call HTTPDelete
+and then implemented it in CoverType.js file
 
-
-
-
+0247: Run the application and I am successfully able to create, edit and delete cover Types in my web application :)
