@@ -240,3 +240,7 @@ Updated database
 1022: Running application again
 
 1023: Successfully am able to run my application :)
+
+11/23/2022
+
+1138: Starting with part 3 of assignment 2
