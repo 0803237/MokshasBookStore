@@ -350,3 +350,26 @@ and then implemented it in CoverType.js file
 0410: Added Product in IUnitOfWork.cs and IUnitOfWork.cs file
 
 0411: Build Successfull
+
+0419: Created ProductController.cs file in Area/Admin/Controllers folder and updated its content 
+
+0421: Made Products folder in Admin/Views
+
+0423: Created Index.cshtml view in Products folder and added content inside it
+
+0424: Run the web application and successfully directed to the product page 
+
+0430: Modified _Layout.cshtml file to add Products in the navigation bar of our web application
+
+0431: run the application and successfully my product was added on navigation bar woohoo..
+
+
+
+
+
+
+
+
+
+
+
