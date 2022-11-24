@@ -351,22 +351,35 @@ and then implemented it in CoverType.js file
 
 0411: Build Successfull
 
-0419: Created ProductController.cs file in Area/Admin/Controllers folder and updated its content 
 
-0421: Made Products folder in Admin/Views
-
-0423: Created Index.cshtml view in Products folder and added content inside it
-
-0424: Run the web application and successfully directed to the product page 
-
-0430: Modified _Layout.cshtml file to add Products in the navigation bar of our web application
-
-0431: run the application and successfully my product was added on navigation bar woohoo..
+================== Part-3 SECTION 2 (3.2) Product CRUD =====================
 
 
+0424: Created ProductController.cs file in Area/Admin/Controllers folder and updated its content 
 
+0429: Created ViewModed in Model folder
 
+0436: Made ProductVM.cs class in ViewModels folder
 
+0443: Created selectlist for category and covertype in ProductVM file
+
+0452: Installed ViewFeature package 
+
+0536: Modified ProductController.cs file 
+
+0542: Added index.cshtml file in product folder
+
+0547: Included upsert.cshtml file in product
+
+0553: Edited product.js file
+
+0554: Build my project
+
+0601: Run my web application successfully :)
+
+0608: Edited bootstrap.css file to change color
+
+0609: Finally Part 3 completed till section 2
 
 
 
