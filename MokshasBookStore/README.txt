@@ -283,6 +283,10 @@ and ICoverTypeRepository.cs interface in IRepository folder
 
 1252: Build successfull
 
+0105: Updated UnitOfWork.cs and IUnitOfWork.cs file
+
+0107: Build successfull
+
 
 
 
