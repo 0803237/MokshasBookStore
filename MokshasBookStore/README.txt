@@ -245,7 +245,7 @@ Updated database
 
 **************************************** PART 3 ***************************************** 
 
-11/23/2022
+2022-11-23
 
 ================== Part-3 (3.1) Cover Type CRUD =====================
 
@@ -258,7 +258,7 @@ Updated database
 
 1150: Updated database
 
-11/24/2022
+2022-11-24
 
 1205: created CoverType.cs file in Models project
 Added ID and Name fields in it
