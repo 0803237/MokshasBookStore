@@ -241,6 +241,40 @@ Updated database
 
 1023: Successfully am able to run my application :)
 
+=======================================================================================================================
+
+**************************************** PART 3 ***************************************** 
+
 11/23/2022
 
+================== Part-3 (3.1) Cover Type CRUD =====================
+
+
 1138: Starting with part 3 of assignment 2
+
+1143: Build succeeded
+
+1144: Checked by running my program.
+
+1150: Updated database
+
+1205: created CoverType.cs file in Models project
+Added ID and Name fields in it
+
+1207: Added migration witn name AddCoverTypeToDb by running command in console
+I need to change default project to build it successfully
+
+1210: Created CoverType DbSet in ApplicationDbContext.cs file
+
+1216: Deleted migration and then re run
+
+1217: updated database
+
+1218: Yeeeeeehhhhhhhhhh... CoverTypes is added on my SqlServer
+
+
+
+
+
+
+
