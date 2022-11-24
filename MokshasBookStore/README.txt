@@ -272,6 +272,10 @@ I need to change default project to build it successfully
 
 1218: Yeeeeeehhhhhhhhhh... CoverTypes is added on my SqlServer
 
+1229:  My Visual studio was crashed.
+
+
+
 
 
 
